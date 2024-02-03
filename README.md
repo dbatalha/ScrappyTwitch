@@ -2,7 +2,7 @@
 
 ScrappyTwitch is a Python application that acts as a Twitch bot, gathering information about online streamers and storing it in a database.
 
-![ScrappyTwitch Logo](https://freeimage.host/i/J0XQgFj)
+![ScrappyTwitch Logo](https://iili.io/J0XQgFj.jpg)
 
 ## Table of Contents
 

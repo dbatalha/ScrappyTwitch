@@ -1,0 +1,3 @@
+[submodule "scrappy_bot/session"]
+	path = scrappy_bot/session
+	url = https://github.com/dbatalha/ScrappyTwitchShared

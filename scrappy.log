@@ -1,0 +1,2467 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 614
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 614
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 614
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 706
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 620
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 706
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 479
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 614
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 706
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 614
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 706
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 613
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 613
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 706
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 478
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 700
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 619
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 60
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 71
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 63
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 70
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 200 68
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Z3RGtv 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Z3RGtv HTTP/1.1" 200 761
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=895327657 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: SheisDani 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=SheisDani HTTP/1.1" 200 568
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=645555689 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: TONIDOROCK 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=TONIDOROCK HTTP/1.1" 200 469
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=155533448 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 58
+DEBUG:scrappy_bot:Stream object is empty, skip stream_object name: None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: itscuegod 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=itscuegod HTTP/1.1" 200 461
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=756724524 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: Ska_zy 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=Ska_zy HTTP/1.1" 200 453
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=252051637 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 54
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: RavenVonBloodimir 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=RavenVonBloodimir HTTP/1.1" 200 712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=57603584 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 65
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 71
+DEBUG:scrappy_bot:The stream: itscuegod is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: PirateSoftware 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=PirateSoftware HTTP/1.1" 200 748
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=151368796 HTTP/1.1" 200 727
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: 0ficialpi 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=0ficialpi HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=408941534 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 57
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: twitchcamponia97 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=twitchcamponia97 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=760070046 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 64
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: WitchcraftCave 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=WitchcraftCave HTTP/1.1" 200 541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=88385769 HTTP/1.1" 200 27
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: PirateSoftware is Online
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): id.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://id.twitch.tv:443 "POST /oauth2/token HTTP/1.1" 200 93
+DEBUG:scrappy_bot:Get streams for user: soniagoncalves 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/users?login=soniagoncalves HTTP/1.1" 200 350
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twitch.tv:443
+DEBUG:urllib3.connectionpool:https://api.twitch.tv:443 "GET /helix/streams?user_id=164609804 HTTP/1.1" 200 613
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /user HTTP/1.1" 200 62
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /stream HTTP/1.1" 200 76
+DEBUG:scrappy_bot:The stream: soniagoncalves is Online
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "GET /watchers HTTP/1.1" 200 172
+INFO:scrappy_bot:The user: Z3RGtv is Offline
+DEBUG:scrappy_bot:Delete streams for user: Z3RGtv
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Z3RGtv HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: SheisDani is Offline
+DEBUG:scrappy_bot:Delete streams for user: SheisDani
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=SheisDani HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: TONIDOROCK is Offline
+DEBUG:scrappy_bot:Delete streams for user: TONIDOROCK
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=TONIDOROCK HTTP/1.1" 200 64
+DEBUG:scrappy_bot:The stream : itscuegod was found!
+INFO:scrappy_bot:The user: itscuegod is Online
+DEBUG:scrappy_bot:Keep the stream for user: itscuegod
+INFO:scrappy_bot:The user: Ska_zy is Offline
+DEBUG:scrappy_bot:Delete streams for user: Ska_zy
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=Ska_zy HTTP/1.1" 200 56
+INFO:scrappy_bot:The user: RavenVonBloodimir is Offline
+DEBUG:scrappy_bot:Delete streams for user: RavenVonBloodimir
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=RavenVonBloodimir HTTP/1.1" 200 78
+DEBUG:scrappy_bot:The stream : PirateSoftware was found!
+INFO:scrappy_bot:The user: PirateSoftware is Online
+DEBUG:scrappy_bot:Keep the stream for user: PirateSoftware
+INFO:scrappy_bot:The user: 0ficialpi is Offline
+DEBUG:scrappy_bot:Delete streams for user: 0ficialpi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=0ficialpi HTTP/1.1" 200 62
+INFO:scrappy_bot:The user: twitchcamponia97 is Offline
+DEBUG:scrappy_bot:Delete streams for user: twitchcamponia97
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=twitchcamponia97 HTTP/1.1" 200 76
+INFO:scrappy_bot:The user: WitchcraftCave is Offline
+DEBUG:scrappy_bot:Delete streams for user: WitchcraftCave
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "DELETE /stream?user_name=WitchcraftCave HTTP/1.1" 200 72
+DEBUG:scrappy_bot:The stream : soniagoncalves was found!
+INFO:scrappy_bot:The user: soniagoncalves is Online
+DEBUG:scrappy_bot:Keep the stream for user: soniagoncalves
+INFO:scrappy_bot:Stream: Z3RGtv Status: Offline
+INFO:scrappy_bot:Stream: SheisDani Status: Offline
+INFO:scrappy_bot:Stream: TONIDOROCK Status: Offline
+INFO:scrappy_bot:Stream: itscuegod Status: Online
+INFO:scrappy_bot:Stream: Ska_zy Status: Offline
+INFO:scrappy_bot:Stream: RavenVonBloodimir Status: Offline
+INFO:scrappy_bot:Stream: PirateSoftware Status: Online
+INFO:scrappy_bot:Stream: 0ficialpi Status: Offline
+INFO:scrappy_bot:Stream: twitchcamponia97 Status: Offline
+INFO:scrappy_bot:Stream: WitchcraftCave Status: Offline
+INFO:scrappy_bot:Stream: soniagoncalves Status: Online
+DEBUG:schedule:Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
+DEBUG:urllib3.connectionpool:http://localhost:9000 "POST /watcher HTTP/1.1" 500 265
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:9000
